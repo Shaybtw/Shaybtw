@@ -1,1 +1,3 @@
-[![](https://img.shields.io/badge/discord%2Ejs-%232B61B3?style=for-the-badge)](https://discord.js.org)
+Coding enthusiast.
+Learning :
+[![]https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white])
