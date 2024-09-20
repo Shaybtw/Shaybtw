@@ -1,5 +1,4 @@
 # Coding Enthusiast.
-Fairly new to programming, worked on basic python ML models in the past using Nueral Networks. Also fluent with data exploration using python. Looking forward to learning multiple languages and expanding my programming knowledge. Dream to work as a Data Analyst/ Software Developer someday.
 
 Learning :
 
